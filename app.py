@@ -8,7 +8,7 @@ st.title("🚢 Titanic Dataset - Exploratory Data Analysis")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("C:\Users\Sruthi\Documents\TASKS\titanic-prediction-app\train.csv")
+    return pd.read_csv("data/train.csv")  # Use relative path
 
 df = load_data()
 
