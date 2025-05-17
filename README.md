@@ -1,4 +1,4 @@
-# Titanic EDA Project 🚢
+# Titanic Prediction Project 🚢
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset from Kaggle. The goal is to understand the data, clean it, and explore trends and relationships that influenced survival.
 
